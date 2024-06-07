@@ -17,4 +17,5 @@ Gemini Quizify is an AI-generated quiz tool designed to provide students and lea
 - **Vertex AI Embeddings & Langchain**: Implemented for embedding documents and generating context-aware quiz questions.
 - **Chroma DB**: Utilized for transforming and storing data to facilitate efficient quiz question generation.
 
-#### A special thank you to Radical AI for providing the foundation of this project. Their support and resources have been invaluable in developing Gemini Quizify, ensuring that we can offer a robust and effective learning tool for students and learners worldwide.
+### Acknowledgements
+A special thank you to Radical AI for providing the foundation of this project. Their support and resources have been invaluable in developing Gemini Quizify, ensuring that we can offer a robust and effective learning tool for students and learners worldwide.
