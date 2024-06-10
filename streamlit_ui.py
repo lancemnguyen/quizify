@@ -37,7 +37,7 @@ from chroma_collection_creator import ChromaCollectionCreator
 # """
 
 if __name__ == "__main__":
-    # st.header("Quizzify")
+    # st.header("Quizify")
 
     # Configuration for EmbeddingClient
     embed_config = {
@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
     screen = st.empty() # Screen 1, ingest documents
     with screen.container():
-        st.header("Quizzify")
+        st.header("Quizify")
         ####### YOUR CODE HERE #######
         # 1) Initialize DocumentProcessor and Ingest Documents from Task 3
         processor = DocumentProcessor()
