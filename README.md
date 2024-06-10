@@ -10,7 +10,7 @@ Gemini Quizify is an AI-generated quiz tool designed to provide students and lea
 - **User-Friendly Interface**: Easily navigate through the quiz with a seamless user interface built with Streamlit.
 - **Customizable Quizzes**: Select topics and the number of questions to tailor the quiz to individual learning needs.
 
-## AI Technologies Used
+## Tech Stack
 - **Google Cloud & Vertex AI**: Utilized for setting up the project, managing authentication, and leveraging advanced AI capabilities.
 - **Streamlit**: Employed for creating a user-friendly interface for document ingestion and quiz interaction.
 - **PyPDFLoader**: Used for processing PDFs and extracting content to generate quizzes.
