@@ -4,7 +4,7 @@
 Gemini Quizify is an AI-generated quiz tool designed to provide students and learners with an accessible and effective means to reinforce their understanding of various topics. By leveraging AI technology, the tool dynamically generates quizzes based on user-provided documents, offering instant feedback and detailed explanations. This approach facilitates deeper comprehension and retention of knowledge, ultimately enhancing the learning experience.
 
 ## Features
-- **Dynamic Quiz Generation**: Create quizzes tailored to user-provided documents such as textbooks and scholarly papers.
+- **Dynamic Quiz Generation**: Create quizzes tailored to user-provided PDFs.
 - **Instant Feedback**: Receive immediate feedback on quiz responses to aid in understanding and retention.
 - **Detailed Explanations**: Gain comprehensive explanations for each quiz question to deepen knowledge.
 - **User-Friendly Interface**: Easily navigate through the quiz with a seamless user interface built with Streamlit.
