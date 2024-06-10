@@ -7,3 +7,6 @@ ai-data.json
 
 # Tasks
 *_solution.py
+.env
+.idea/
+venv/
