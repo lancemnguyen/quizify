@@ -69,4 +69,4 @@ streamlit run quizify.py
 By following this guide, you should be able to set up and use Gemini Quizify to generate dynamic quizzes based on user-provided documents. Enjoy enhancing your learning experience with AI-powered quizzes!
 
 ### Acknowledgements
-A special thank you to Radical AI for providing the foundation of this project. Their support and resources have been invaluable in developing Gemini Quizify, ensuring that we can offer a robust and effective learning tool for students and learners worldwide.
+A special thank you to Radical AI for providing the foundation of this project. Their support and resources have been invaluable in developing Gemini Quizify, ensuring that we can offer a robust and effective learning tool for educators and students worldwide.
