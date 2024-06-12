@@ -25,8 +25,8 @@ Prerequisites
 Setup Instructions
 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/gemini-quizify.git
-cd gemini-quizify
+git clone https://github.com/lancegosu/quizify.git
+cd quizify
 ```
 
 2. Set Up Google Cloud and Vertex AI
