@@ -1,28 +1,19 @@
 # Gemini Quizify
 
-## Overview
-Gemini Quizify is an AI-generated quiz tool designed to provide educators and students with an accessible and effective means to reinforce their understanding of various topics. By leveraging AI technology, the tool dynamically generates quizzes based on user-provided documents, offering instant feedback and detailed explanations. This approach facilitates deeper comprehension and retention of knowledge, ultimately enhancing the learning experience.
+Gemini Quizify generates quizzes from documents with various filetype support. It is designed for educators and students with an accessible and effective means to reinforce their understanding of any topic by offering instant feedback and detailed explanations, ultimately enhancing the learning experience.
+
+Tech stack: GCP (Vertex AI), Streamlit, Langchain, ChromaDB
 
 ## Features
-- **Dynamic Quiz Generation**: Create quizzes tailored to user-provided PDFs.
-- **Instant Feedback**: Receive immediate feedback on quiz responses to aid in understanding and retention.
-- **Detailed Explanations**: Gain comprehensive explanations for each quiz question to deepen knowledge.
-- **User-Friendly Interface**: Easily navigate through the quiz with a seamless user interface built with Streamlit.
-- **Customizable Quizzes**: Select topics and the number of questions to tailor the quiz to individual learning needs.
+- **Dynamic Quiz Generation**: Create customizable quizzes from PDFs tailored to your needs.
+- **Instant Feedback**: Receive explanations for each quiz question and feedback on your answers to assist in understanding.
+- **User-Friendly Interface**: Easily navigate through the quiz with a Streamlit user interface.
 
-## Tech Stack
-- **Google Cloud & Vertex AI**: Utilized for setting up the project, managing authentication, and leveraging advanced AI capabilities.
-- **Streamlit**: Employed for creating a user-friendly interface for document ingestion and quiz interaction.
-- **PyPDFLoader**: Used for processing PDFs and extracting content to generate quizzes.
-- **Vertex AI Embeddings & Langchain**: Implemented for embedding documents and generating context-aware quiz questions.
-- **Chroma DB**: Utilized for transforming and storing data to facilitate efficient quiz question generation.
-
-## Installation
-Prerequisites
+## Prerequisites
 - Python 3.7 or higher
 - Google Cloud account with Vertex AI enabled
 
-Setup Instructions
+## Setup
 1. Clone the Repository
 ```bash
 git clone https://github.com/lancegosu/quizify.git
